@@ -63,7 +63,7 @@
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
 
 <div>
-    <h1>A little about my preferences</h1>
+    <h1>🌟A little about my preferences</h1>
     <p>I am currently building my experience and my path as a programmer. I have had minimal experience in the "Backend" and "Frontend" aspects, although I feel more comfortable in the server ("Backend"), but my desire to continue gaining more experience and training for my future in the area that I like continues to advance..</p>
 </div>
 
